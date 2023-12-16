@@ -103,10 +103,9 @@
   }
 
   .house {
-    width: 90%;
-    height: 100%;
+    width: 585px;
+    height: 545px;
     margin: 0 auto;
-    object-fit: cover;
   }
 }
 
